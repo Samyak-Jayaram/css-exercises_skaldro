@@ -1,0 +1,28 @@
+
+.hello
+{
+    background-color: rgb(245, 182, 182);
+    font: Verdana,"Dejavu Sans",sans-serif;
+
+}
+
+.adjust_font_size
+{
+    font-size: 24 px;
+}
+
+
+#ok
+{
+    color: blue;
+    font-size: 36px;
+}
+
+#yello
+{
+background-color: lightgreen;
+font-weight: bold;
+}
+
+
+  
